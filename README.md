@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **malaypatoliya1619@gmail.com**
+- 📫 How to reach me **vijeetshah1408@gmail.com**
 
 <br>
 
